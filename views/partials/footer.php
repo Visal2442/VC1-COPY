@@ -56,7 +56,7 @@
     </div>
 
 </footer>
-<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>  <!--Tailwind element script -->
+<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/tw-elements.umd.min.js"></script> <!-- Tailwind element script -->
 <script src="views/js/main.js"></script>
 </body>
 

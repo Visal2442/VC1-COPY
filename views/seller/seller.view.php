@@ -141,8 +141,8 @@
 
 <!-- ==== Script for chart ====  -->
 <script src="https://demo.themesberg.com/windster/app.bundle.js"></script>
-<!-- ================================================ -->
-<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/index.min.js"></script>
+<!-- ================= Tailwind Element=============================== -->
+<script src="https://cdn.jsdelivr.net/npm/tw-elements/dist/js/tw-elements.umd.min.js"></script>
 </body>
 
 </html>
